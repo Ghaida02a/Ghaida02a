@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Ghaida 👋
 
-<!--
-**Ghaida02a/Ghaida02a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌸 About Me
+- 💻 Passionate about AI, Web Development, and Machine Learning.
+- 💄 Owner of **Glaseé**, a lipstick & lip gloss brand.
+- 🦷 Interested in Dentistry & Dental Education.
+- 📚 Currently learning Java, Python, and advanced web development.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- HTML, CSS, JavaScript, Python, C++, Bootstrap
+- MySQL, TensorFlow, PyTorch
+- GitHub, WordPress, MS Office
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-link)
+- Instagram: [@glasee_official](https://instagram.com/glasee_official)
+
+✨ _Thanks for visiting my profile!_
