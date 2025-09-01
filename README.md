@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://camo.githubusercontent.com/9d8f9b3f1e3f5f2b6f0f3c7f1a5e6f5d5c1b7c6d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4768616964612d46617368696f6e2dff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Glaseé Banner"/>
+  <img src="https://camo.githubusercontent.com/9d8f9b3f1e3f5f2b6f0f3c7f1a5e6f5d5c1b7c6d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4768616964612d46617368696f6e2dff69b4?style=for-the-badge&logo=github&logoColor=white" alt=""/>
 </p>
 
 <h1 align="center">Hi there, I'm Ghaida 👋</h1>
