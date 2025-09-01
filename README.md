@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there, I'm Ghaida 👋</h1>
 <p align="center">
-  💻 AI Enthusiast | 🌸 Entrepreneur | 🦷 Dentistry Enthusiast
+  💻 AI Enthusiast | 🌸 Entrepreneur
 </p>
 
 ---
@@ -12,7 +12,6 @@
 ## 🌸 About Me
 - 💻 Passionate about **AI**, **Web Development**, and **Machine Learning**  
 - 💄 Owner of **Glaseé**, a lipstick & lip gloss brand 💋  
-- 🦷 Interested in **Dentistry & Dental Education**  
 - 📚 Currently learning **Java**, **Python**, and **Advanced Web Development**  
 
 ---
@@ -45,8 +44,7 @@
 ## 📫 Connect with Me
 <p align="center">
   <a href="mailto:ggmskaj@gmail.com"><img src="https://img.shields.io/badge/Email-ggmskaj%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/glasee_official"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  /*<a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>*/
 </p>
 
 ---
