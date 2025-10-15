@@ -6,7 +6,6 @@
 
 ## 🌸 About Me
 - 💻 Passionate about **AI**, **Web Development**, and **Machine Learning**  
-- 💄 Owner of **Glaseé**, a lipstick & lip gloss brand 💋  
 - 📚 Currently learning **Java**, **Python**, and **Advanced Web Development**  
 
 ---
