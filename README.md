@@ -2,11 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7A8B8&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Ghaida+%F0%9F%91%8B;AI+Enthusiast+%F0%9F%92%BB;Entrepreneur+%F0%9F%8C%B8;Lover+of+Code+%26+Beauty+%F0%9F%92%95" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://user-badge.committers.top/oman_private/Ghaida02a">
     <img src="https://user-badge.committers.top/oman_private/Ghaida02a.svg" alt="committers.top badge" />
   </a>
-</p>
+</p> -->
 ---
 
 ## 🌸 About Me
